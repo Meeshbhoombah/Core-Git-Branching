@@ -22,7 +22,8 @@ He stuck his head in the door, the color of the foliage was intense greens, brow
 The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
-Linus met the Unicorn King who granted him magic powers.
+Linus met the Unicorn King who granted him magic powers. He said, "Please tell the zookeeper that I love him and I am him." Just then a Friendly Koala said, "Wow, what
+a touching story. We should visualize the dataset. R is bad. Machine Learning. Burritos."
 The End.
 
 ## Cast

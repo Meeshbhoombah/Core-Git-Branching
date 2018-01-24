@@ -1,5 +1,7 @@
 # Core: Git Branching Lab
 
+I'm testing my new alias.
+
 A lab activity to learn about working with teams with a shared Git project.
 Use branches to manage a coherent and organized workflow.
 
